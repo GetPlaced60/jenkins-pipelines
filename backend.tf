@@ -3,6 +3,6 @@ terraform {
     bucket = "terraform-state-bucket-pipeline"
     key = "main"
     region = "us-east-1"
-    dynamodb_table = "my-dynamoDB-table"
+    dynamodb_table = "my-dynamodb-table"
   }
 }
